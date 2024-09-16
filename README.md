@@ -20,8 +20,6 @@
 
 # Email: bu32221@163.com
 
-## Instructor: Dr. Thomas Ploetz
-
 ## Deadline: <font color='red'>Monday, September 23rd, 7:59 am EDT</font>
 
 #### Released: Monday, September 9th, 7:59 am EDT
